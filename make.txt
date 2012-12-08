@@ -1,4 +1,4 @@
-Password caching
+Password caching and user
 
 The last option we need to set will tell git that you don't want to type your username and password every time you talk to a remote server.
 
