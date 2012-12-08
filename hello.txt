@@ -8,4 +8,4 @@ Created by the same dudes that created Linux, Git is responsible for everything 
 
 *If you don't already know what Git is, take a crash course.
 
-Download and install the latest version of Git.
+Downloads and install the latest version of Git.
